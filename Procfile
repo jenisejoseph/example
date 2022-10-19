@@ -1,1 +1,1 @@
-web: gunicorn apptesting.wsgi
+web: gunicorn apptesting.wsgi --preload
