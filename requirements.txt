@@ -35,3 +35,4 @@ ua-parser==0.16.1
 urllib3==1.26.12
 Werkzeug==2.2.2
 yfinance==0.1.77
+gunicorn==20.1.0
