@@ -1,1 +1,1 @@
-web: gunicorn frozen-escarpment-04395.wsgi:application --preload
+web: gunicorn apptesting.wsgi:application --preload
