@@ -1,1 +1,1 @@
-web: gunicorn example.wsgi:application --preload
+web: gunicorn frozen-escarpment-04395.wsgi:application --preload
