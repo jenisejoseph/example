@@ -1,1 +1,1 @@
-web: gunicorn git.wsgi
+web: gunicorn apptesting.wsgi
