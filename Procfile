@@ -1,1 +1,1 @@
-worker: python apptesting.py runserver $PORT
+web: python apptesting.py runserver $PORT
